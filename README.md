@@ -8,6 +8,9 @@ in case of problems
 uninstall and reinstall opencv
 
 pip uninstall opencv-contrib-python
+
 pip uninstall opencv-python
+
 pip install opencv-python
+
 pip install opencv-contrib-python
