@@ -2,6 +2,7 @@
 Run 
 
 conda env create -f environment.yaml
+
 source activate cv 
 
 in case of problems
